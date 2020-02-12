@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: #000000;
+  font-family: Helvetica, "Helvetica Neue", sans-serif;
+  font-size: 30px;
+}
+
+span.temp-scale {
+  cursor: pointer;
+  color: #0d2d5c;
+  text-decoration: underline;
+  font-weight: bold;
+}
